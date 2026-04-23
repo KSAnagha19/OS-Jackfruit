@@ -116,7 +116,7 @@ Containers stopped without leaving zombie processes.
 ![teardown](boilerplate/images/12.png)
 ![teardown](boilerplate/images/13.png)
 ![teardown](boilerplate/images/14.png)
-
+![teardown](boilerplate/images/15.png)
 ---
 
 ## 6. Engineering Analysis
