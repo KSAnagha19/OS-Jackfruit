@@ -108,12 +108,12 @@ Container terminated when memory exceeds hard limit.
 ### 5.7 Scheduling Experiment
 Comparison of CPU, memory, and I/O workloads.
 
-![scheduling](boilerplate/images/11.png)
-![scheduling](boilerplate/images/12.png)
+![scheduling](boilerplate/images/10.png)
 
 ### 5.8 Clean Teardown
 Containers stopped without leaving zombie processes.
-
+![teardown](boilerplate/images/11.png)
+![teardown](boilerplate/images/12.png)
 ![teardown](boilerplate/images/13.png)
 ![teardown](boilerplate/images/14.png)
 
